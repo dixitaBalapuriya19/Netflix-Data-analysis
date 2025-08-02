@@ -3,10 +3,12 @@
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 
 ## 📌 Overview
+
 This project explores and analyzes the **Netflix dataset** to discover trends, patterns, and insights about its content library.  
 It uses **Python** for cleaning, analysis, and visualization.  
 
 The aim is to answer questions like:
+
 - Which countries produce the most content on Netflix?
 - What is the ratio of Movies vs TV Shows?
 - How has Netflix's content library grown over time?
@@ -16,6 +18,7 @@ The aim is to answer questions like:
 ---
 
 ## 🗂 Dataset
+
 - **Source:** [Netflix Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows) *(or replace with your source)*  
 - **Format:** CSV file containing:
   - Title  
@@ -31,6 +34,7 @@ The aim is to answer questions like:
 ---
 
 ## 🛠 Tools & Libraries
+
 - **Language:** Python 3
 - **Libraries:**
   - `pandas` – Data cleaning & manipulation
@@ -41,33 +45,39 @@ The aim is to answer questions like:
 ---
 
 ## 📈 Key Insights
+
 ### 1️⃣ Content Type Distribution  
+
 ![Content Type Chart](images/content_type.png)  
-*(This pie chart shows the proportion of Movies vs TV Shows)*  
 
 ### 2️⃣ Top 10 Countries with Most Titles  
+
 ![Top Countries Chart](images/top_countries.png)  
 
 ### 3️⃣ Trend of Content Over Years  
+
 ![Content Over Time Chart](images/content_over_time.png)  
 
 ### 4️⃣ Rating Distribution  
-![Rating Distribution Chart](images/rating_distribution.png)  
 
-*(Replace `images/...` with actual uploaded plot paths in your repo)*
+![Rating Distribution Chart](images/rating_distribution.png)  
 
 ---
 
 ## 🚀 How to Run
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/dixitaBalapuriy19/Netflix-Data-analysis.git
+
+```bash
+git clone https://github.com/dixitaBalapuriy19/Netflix-Data-analysis.git
+```
    
 
 ---
 
-## Author: 
+## Author
+
 Dixita Balapuriya
-Email: dixitabalapuriya@gmail.com
-      balapuriyad@gmail.com
-Github: https://github.com/dixitaBalapuriya19
+Email: <dixitabalapuriya@gmail.com>
+      <balapuriyad@gmail.com>
+Github: <https://github.com/dixitaBalapuriya19>
